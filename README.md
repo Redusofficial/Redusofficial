@@ -1,4 +1,4 @@
 - Python
-- Lua
+- Lua(U)
 - Java
 - C#
